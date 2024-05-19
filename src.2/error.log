@@ -1,0 +1,42 @@
+Item with identifier 'xyz789' not found.
+model.ItemNotFoundException: Item with identifier 'xyz789' not found.
+	at integration.ExternalInventorySystem.findItem(ExternalInventorySystem.java:34)
+	at controller.Controller.enterIdentifier(Controller.java:48)
+	at view.View.addItemToSale(View.java:42)
+	at view.View.runFakeExecution(View.java:29)
+	at startup.Main.main(Main.java:25)
+Simulated database failure for item identifier 'db_error'.
+model.DatabaseFailureException: Simulated database failure for item identifier 'db_error'.
+	at integration.ExternalInventorySystem.findItem(ExternalInventorySystem.java:26)
+	at controller.Controller.enterIdentifier(Controller.java:48)
+	at view.View.addItemToSale(View.java:42)
+	at view.View.runFakeExecution(View.java:30)
+	at startup.Main.main(Main.java:25)
+Item with identifier 'xyz789' not found.
+model.ItemNotFoundException: Item with identifier 'xyz789' not found.
+	at integration.ExternalInventorySystem.findItem(ExternalInventorySystem.java:34)
+	at controller.Controller.enterIdentifier(Controller.java:48)
+	at view.View.addItemToSale(View.java:42)
+	at view.View.runFakeExecution(View.java:29)
+	at startup.Main.main(Main.java:25)
+Simulated database failure for item identifier 'db_error'.
+model.DatabaseFailureException: Simulated database failure for item identifier 'db_error'.
+	at integration.ExternalInventorySystem.findItem(ExternalInventorySystem.java:26)
+	at controller.Controller.enterIdentifier(Controller.java:48)
+	at view.View.addItemToSale(View.java:42)
+	at view.View.runFakeExecution(View.java:30)
+	at startup.Main.main(Main.java:25)
+Item with identifier 'xyz789' not found.
+model.ItemNotFoundException: Item with identifier 'xyz789' not found.
+	at integration.ExternalInventorySystem.findItem(ExternalInventorySystem.java:34)
+	at controller.Controller.enterIdentifier(Controller.java:48)
+	at view.View.addItemToSale(View.java:42)
+	at view.View.runFakeExecution(View.java:29)
+	at startup.Main.main(Main.java:25)
+Simulated database failure for item identifier 'db_error'.
+model.DatabaseFailureException: Simulated database failure for item identifier 'db_error'.
+	at integration.ExternalInventorySystem.findItem(ExternalInventorySystem.java:26)
+	at controller.Controller.enterIdentifier(Controller.java:48)
+	at view.View.addItemToSale(View.java:42)
+	at view.View.runFakeExecution(View.java:30)
+	at startup.Main.main(Main.java:25)
